@@ -15,7 +15,6 @@ This is an engineering exploration tool, not a CFD solver. It is designed to be 
 ## Windows setup
 
 ```powershell
-cd "g:\Other computers\My Laptop\workspace\Personal\UnititledProject"
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 python -m pip install --upgrade pip
